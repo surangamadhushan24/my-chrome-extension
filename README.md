@@ -1,6 +1,6 @@
 # Chrome Website Blocker Extension
 
-A simple personal-use Chrome extension that blocks Facebook and YouTube by redirecting them to a custom "Blocked" page.
+A simple personal-use Chrome extension that blocks Facebook, instagram and YouTube by redirecting them to a custom "Blocked" page.
 
 ## Features
 - Blocks: facebook.com, youtube.com
